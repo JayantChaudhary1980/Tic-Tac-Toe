@@ -1,6 +1,7 @@
 # 🎮 Tic Tac Toe Game
 
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+A mini project during my learning.
 
 ---
 
@@ -37,4 +38,4 @@ Click the button below to play:
 
 ## 👤 Author
 
-Jayant Choudhary
+Jayant Chaudhary
