@@ -32,7 +32,8 @@ Click the button below to play:
 
 ## 📷 Preview
 
-(Add screenshots here later if you want)
+<img width="1671" height="873" alt="image" src="https://github.com/user-attachments/assets/894bb620-deb3-467a-a9ea-0c00bb232e89" />
+
 
 ---
 
